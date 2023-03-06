@@ -4,4 +4,7 @@ work all game  hacking
 download this project and compres to zip file and rename zip to alp
 
 
-alp download link----------->https://bit.ly/3xrFw9r
+
+
+
+make your own game hacking cpp lua and use all game hackink all type lib game lib-x64 lib-x32
