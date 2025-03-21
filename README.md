@@ -1,10 +1,10 @@
 # injector-hack-free-fire
-work all game  hacking
+work for all games  injection
 
-download this project and compres to zip file and rename zip to alp
-
-
+download this project and compres it into zip file and rename zip to alp
 
 
 
-make your own game hacking cpp lua and use all game hackink all type lib game lib-x64 lib-x32 
+
+
+make your own game memory inject cpp using memory.cpp and use to modify memroy for all games lib supports game lib-x64 lib-x32 
