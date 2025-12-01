@@ -1,5 +1,5 @@
 # injector-hack-free-fire
-work for all games  injection
+workes for all games  injection
 
 download this project and compres it into zip file and rename zip to alp
 
